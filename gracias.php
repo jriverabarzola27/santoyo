@@ -2,7 +2,7 @@
 
 //Type the receiever's e-mail address
 
-$emailAddress = "policlinicosantoyo@gmail.com";
+$emailAddress = "jriverabarzola@gmail.com";
 
 //Type your Site Name
 
